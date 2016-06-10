@@ -6,19 +6,6 @@
    connectDB();
    
    
-class Products {
-    public $productID = "";
-    public $product_name = "";
-    public $product_image = "";
-    public $merchant_id = "";
-    public $product_price = "";
-    public $product_created_at = "";
-    public $product_updated_at = "";
-    public $customization_availability = "";
-	public $preference ="";
-    public $product_customization_details = "";
-    
-}
 
 class Category
 {
